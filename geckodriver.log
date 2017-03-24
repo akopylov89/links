@@ -1,0 +1,798 @@
+1490346863243	geckodriver	INFO	Listening on 127.0.0.1:60270
+1490346863298	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2xvO9XXBQfwl
+1490346863299	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490346863300	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45223
+1490346864465	Marionette	INFO	Listening on port 45223
+1490346864715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490346940673	geckodriver	INFO	Listening on 127.0.0.1:50607
+1490346940740	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ajzOkdpdqbxM
+1490346940741	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490346940760	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36743
+1490346941676	Marionette	INFO	Listening on port 36743
+1490346941888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490346948120	Marionette	INFO	New connections will no longer be accepted
+1490346969275	geckodriver	INFO	Listening on 127.0.0.1:54110
+1490346969358	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BdjdBLroChU5
+1490346969358	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490346969360	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34020
+1490346970289	Marionette	INFO	Listening on port 34020
+1490346970500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490346976969	Marionette	INFO	New connections will no longer be accepted
+1490347471888	geckodriver	INFO	Listening on 127.0.0.1:43737
+1490347471986	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0y7fxN8Nvj2f
+1490347471987	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490347471994	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34849
+1490347472893	Marionette	INFO	Listening on port 34849
+1490347473116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490347479582	Marionette	INFO	New connections will no longer be accepted
+1490347479721	geckodriver	INFO	Listening on 127.0.0.1:54662
+1490347479826	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.R6MZZ1umqrXl
+1490347479827	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490347479855	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33534
+1490347480810	Marionette	INFO	Listening on port 33534
+1490347481062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490347599630	geckodriver	INFO	Listening on 127.0.0.1:43493
+1490347600668	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rJSZPVvY5Ju3
+1490347600668	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490347600670	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38229
+1490347601583	Marionette	INFO	Listening on port 38229
+1490347601854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490347608474	Marionette	INFO	New connections will no longer be accepted
+1490347608599	geckodriver	INFO	Listening on 127.0.0.1:34190
+1490347608719	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OK3crsmzY651
+1490347608720	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490347608732	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36416
+1490347609719	Marionette	INFO	Listening on port 36416
+1490347609970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490347731729	geckodriver	INFO	Listening on 127.0.0.1:59649
+1490347731919	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.30hGryOwEzGI
+1490347731949	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490347731989	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34203
+1490347734604	Marionette	INFO	Listening on port 34203
+1490347735381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490347807762	geckodriver	INFO	Listening on 127.0.0.1:36233
+1490347807929	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GIPxIVWFJ9qU
+1490347807945	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490347807951	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40224
+1490347809917	Marionette	INFO	Listening on port 40224
+1490347810475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490347818342	Marionette	INFO	New connections will no longer be accepted
+1490347853300	geckodriver	INFO	Listening on 127.0.0.1:46443
+1490347853448	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DlcjqwdVRWA5
+1490347853449	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490347853467	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37455
+1490347855474	Marionette	INFO	Listening on port 37455
+1490347856016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490347864781	Marionette	INFO	New connections will no longer be accepted
+1490347891661	geckodriver	INFO	Listening on 127.0.0.1:60816
+1490347891833	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pkYXCYYMEd7x
+1490347891833	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490347891853	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37102
+1490347893691	Marionette	INFO	Listening on port 37102
+1490347894255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490347912784	Marionette	INFO	New connections will no longer be accepted
+1490347924210	geckodriver	INFO	Listening on 127.0.0.1:33521
+1490347924403	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.grpkiKSalMkq
+1490347924404	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490347924447	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39602
+1490347928084	Marionette	INFO	Listening on port 39602
+1490347928673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490347957438	Marionette	INFO	New connections will no longer be accepted
+1490348140794	geckodriver	INFO	Listening on 127.0.0.1:37291
+1490348140896	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OjXs6EJYbmvK
+1490348140897	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490348140914	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36564
+1490348141802	Marionette	INFO	Listening on port 36564
+1490348142047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490348217571	geckodriver	INFO	Listening on 127.0.0.1:56805
+1490348217743	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wnMT6VgUXvel
+1490348217743	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490348217760	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44648
+1490348218617	Marionette	INFO	Listening on port 44648
+1490348218877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490348493000	geckodriver	INFO	Listening on 127.0.0.1:37229
+1490348493130	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2cwASGHCyUv8
+1490348493130	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490348493151	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38786
+1490348494367	Marionette	INFO	Listening on port 38786
+1490348494701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490348783077	geckodriver	INFO	Listening on 127.0.0.1:40954
+1490348783182	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zxxhqIEifYMd
+1490348783182	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490348783184	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39633
+1490348784231	Marionette	INFO	Listening on port 39633
+1490348784488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490348909065	geckodriver	INFO	Listening on 127.0.0.1:52162
+1490348909168	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Q28NfjKNaA79
+1490348909168	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490348909181	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44377
+1490348910262	Marionette	INFO	Listening on port 44377
+1490348910501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490349036839	geckodriver	INFO	Listening on 127.0.0.1:37945
+1490349036930	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NNI03iW9sW5N
+1490349036931	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490349036972	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33457
+1490349037782	Marionette	INFO	Listening on port 33457
+1490349037987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript error: resource://gre/modules/Finder.jsm, line 479: TypeError: this._docShell is null
+1490349274911	geckodriver	INFO	Listening on 127.0.0.1:42653
+1490349275042	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KFTqqxRrcneS
+1490349275042	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490349275064	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44159
+1490349277232	Marionette	INFO	Listening on port 44159
+1490349277795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490349350994	geckodriver	INFO	Listening on 127.0.0.1:39439
+1490349351108	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SMKBj5GOc8RB
+1490349351109	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490349351122	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43738
+1490349351995	Marionette	INFO	Listening on port 43738
+1490349352279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490349487210	geckodriver	INFO	Listening on 127.0.0.1:51542
+1490349487360	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HPNdVmcEpl16
+1490349487360	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490349487388	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38328
+1490349488421	Marionette	INFO	Listening on port 38328
+1490349488659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript error: resource://gre/modules/Finder.jsm, line 479: TypeError: this._docShell is null
+1490352305772	geckodriver	INFO	Listening on 127.0.0.1:54225
+1490352305902	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.x2tcVJtgLaDo
+1490352305903	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490352305908	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41728
+1490352306769	Marionette	INFO	Listening on port 41728
+1490352307007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490352380352	geckodriver	INFO	Listening on 127.0.0.1:39067
+1490352380447	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.C9ZfejbadGrv
+1490352380447	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490352380464	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37433
+1490352381298	Marionette	INFO	Listening on port 37433
+1490352381509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490352801625	geckodriver	INFO	Listening on 127.0.0.1:42614
+1490352801711	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PCmeKFqfFy6s
+1490352801712	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490352801715	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42578
+1490352802790	Marionette	INFO	Listening on port 42578
+1490352803021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490352928645	geckodriver	INFO	Listening on 127.0.0.1:37597
+1490352928759	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Q1IU2sVVXgPm
+1490352928760	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490352928762	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43222
+1490352929801	Marionette	INFO	Listening on port 43222
+1490352930111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490352970319	geckodriver	INFO	Listening on 127.0.0.1:49255
+1490352970438	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.8HuEj1oWFOeW
+1490352970438	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490352970452	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43490
+1490352971319	Marionette	INFO	Listening on port 43490
+1490352971570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490353026445	geckodriver	INFO	Listening on 127.0.0.1:52758
+1490353026543	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AYjIArMK8jJm
+1490353026544	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490353026563	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38374
+1490353027459	Marionette	INFO	Listening on port 38374
+1490353027694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490353112927	geckodriver	INFO	Listening on 127.0.0.1:46906
+1490353113042	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fBE7Iz8NgvB9
+1490353113042	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490353113055	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32783
+1490353113943	Marionette	INFO	Listening on port 32783
+1490353114149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 609: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 609: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 609: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 609: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 609: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 609: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 609: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 609: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 609: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+1490353197010	geckodriver	INFO	Listening on 127.0.0.1:59908
+1490353197142	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jnKZF4J845Sy
+1490353197143	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490353197150	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34776
+1490353198890	Marionette	INFO	Listening on port 34776
+1490353199094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490353350574	geckodriver	INFO	Listening on 127.0.0.1:59674
+1490353350674	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zdnejcwggO9v
+1490353350674	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490353350676	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36708
+1490353351508	Marionette	INFO	Listening on port 36708
+1490353351713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+1490353384899	geckodriver	INFO	Listening on 127.0.0.1:42936
+1490353385013	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GQUOtwQpDXCu
+1490353385013	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490353385025	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42770
+1490353385862	Marionette	INFO	Listening on port 42770
+1490353386062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490353466631	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1490353546731	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490353574615	geckodriver	INFO	Listening on 127.0.0.1:38969
+1490353574730	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.a9l2QAdlM40D
+1490353574730	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490353574737	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35076
+1490353600250	geckodriver	INFO	Listening on 127.0.0.1:37034
+1490353600358	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ceyj86yBKt6o
+1490353600374	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490353600377	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43770
+1490353647965	geckodriver	INFO	Listening on 127.0.0.1:47775
+1490353648082	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2YXp6adnsB1z
+1490353648083	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490353648099	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33559
+1490353653874	Marionette	INFO	Listening on port 33559
+1490353654067	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** registerProtocolHandler(mailto,https://e.mail.ru/compose/?mailto=%s,Mail.Ru)
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1479718669/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1479718669/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1479718669/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490353745819	geckodriver	INFO	Listening on 127.0.0.1:34746
+1490353745907	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.w6DFJRrVrP4w
+1490353745907	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490353745916	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43399
+1490353746940	Marionette	INFO	Listening on port 43399
+1490353747176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490353796747	geckodriver	INFO	Listening on 127.0.0.1:35352
+1490353796882	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tBZm627XXz69
+1490353796882	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490353796886	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34344
+1490353797702	Marionette	INFO	Listening on port 34344
+1490353797959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490354235550	geckodriver	INFO	Listening on 127.0.0.1:38393
+1490354235632	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oPEIa0wUY8KK
+1490354235633	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490354235635	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32985
+1490354236749	Marionette	INFO	Listening on port 32985
+1490354237003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490354325016	geckodriver	INFO	Listening on 127.0.0.1:39249
+1490354325137	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WzhKWgDuHxbn
+1490354325138	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490354325160	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34588
+1490354326441	Marionette	INFO	Listening on port 34588
+1490354327091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+1490354739952	geckodriver	INFO	Listening on 127.0.0.1:47943
+1490354740211	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.eJmmT0TrkVdi
+1490354740212	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490354740236	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35893
+1490354742635	Marionette	INFO	Listening on port 35893
+1490354742944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+1490354861455	geckodriver	INFO	Listening on 127.0.0.1:59879
+1490354861583	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7gEYQxeCcazF
+1490354861602	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490354861606	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40261
+1490354862787	Marionette	INFO	Listening on port 40261
+1490354863013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+1490355017739	geckodriver	INFO	Listening on 127.0.0.1:43560
+1490355017858	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7kSmT8jI8Qvk
+1490355017859	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490355017875	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42492
+1490355019058	Marionette	INFO	Listening on port 42492
+1490355019264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.js?ver=20131126154524, line 5514: unreachable code after return statement
+1490355122637	geckodriver	INFO	Listening on 127.0.0.1:49946
+1490355122788	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NQl2QxxDtDoG
+1490355122789	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490355122793	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42406
+1490355123653	Marionette	INFO	Listening on port 42406
+1490355123862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490355194740	geckodriver	INFO	Listening on 127.0.0.1:38940
+1490355194861	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.laT5TPpw0Ufb
+1490355194861	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490355194881	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35208
+1490355196667	Marionette	INFO	Listening on port 35208
+1490355196886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+1490355223633	geckodriver	INFO	Listening on 127.0.0.1:38541
+1490355223741	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.iXT2X2dDZXw1
+1490355223741	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490355223760	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35077
+1490355224663	Marionette	INFO	Listening on port 35077
+1490355224888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490355264811	geckodriver	INFO	Listening on 127.0.0.1:49184
+1490355264918	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VpWOTKocIc6o
+1490355264918	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490355264943	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38527
+1490355265803	Marionette	INFO	Listening on port 38527
+1490355266012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490356279536	geckodriver	INFO	Listening on 127.0.0.1:51094
+1490356279633	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dciFR8ZwBX56
+1490356279633	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490356279638	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34979
+1490356280487	Marionette	INFO	Listening on port 34979
+1490356280688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490356408198	geckodriver	INFO	Listening on 127.0.0.1:48618
+1490356408314	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TE0um4t6zKTQ
+1490356408314	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490356408345	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43817
+1490356409221	Marionette	INFO	Listening on port 43817
+1490356409497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490357099987	geckodriver	INFO	Listening on 127.0.0.1:60325
+1490357100089	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.d3g62hyqagQs
+1490357100099	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490357100100	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38708
+1490357101327	Marionette	INFO	Listening on port 38708
+1490357101537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490357117623	geckodriver	INFO	Listening on 127.0.0.1:46201
+1490357117734	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.72QVeJ4rP35I
+1490357117735	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490357117752	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41214
+1490357118605	Marionette	INFO	Listening on port 41214
+1490357118807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490357157523	geckodriver	INFO	Listening on 127.0.0.1:58005
+1490357157622	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KTrKXAHBzUp4
+1490357157623	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490357157625	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46214
+1490357159353	Marionette	INFO	Listening on port 46214
+1490357159573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490357196039	geckodriver	INFO	Listening on 127.0.0.1:42339
+1490357196144	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tyINBWbgBjBc
+1490357196144	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490357196167	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39571
+1490357197027	Marionette	INFO	Listening on port 39571
+1490357197244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490357258546	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1490357565052	geckodriver	INFO	Listening on 127.0.0.1:40866
+1490357565147	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vZVa9mTCCotA
+1490357565147	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490357565153	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45400
+1490357565986	Marionette	INFO	Listening on port 45400
+1490357566188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript error: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/core.js, line 14: TypeError: location is null
+1490358150202	geckodriver	INFO	Listening on 127.0.0.1:52603
+1490358150302	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hsD94kMQUFdp
+1490358150303	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490358150305	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36754
+1490358151655	Marionette	INFO	Listening on port 36754
+1490358151874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490358219731	geckodriver	INFO	Listening on 127.0.0.1:49826
+1490358219837	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xTQKW5sctACL
+1490358219838	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490358219843	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38628
+1490358220733	Marionette	INFO	Listening on port 38628
+1490358220939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490358248404	geckodriver	INFO	Listening on 127.0.0.1:40384
+1490358248500	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Ayf3lLwaeBbx
+1490358248500	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490358248517	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45015
+1490358249382	Marionette	INFO	Listening on port 45015
+1490358249584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490358343983	geckodriver	INFO	Listening on 127.0.0.1:35546
+1490358344094	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bPydToStAHCN
+1490358344095	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490358344112	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35160
+1490358345095	Marionette	INFO	Listening on port 35160
+1490358345337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490358368545	geckodriver	INFO	Listening on 127.0.0.1:60592
+1490358368645	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WceyBCSoHZdF
+1490358368645	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490358368664	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46075
+1490358369577	Marionette	INFO	Listening on port 46075
+1490358369810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490358496390	geckodriver	INFO	Listening on 127.0.0.1:43931
+1490358496483	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3M8NFlpLmw8K
+1490358496483	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490358496488	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44145
+1490358498168	Marionette	INFO	Listening on port 44145
+1490358498396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490358566825	geckodriver	INFO	Listening on 127.0.0.1:38553
+1490358566958	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.drAnYo1NY6qq
+1490358566958	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490358566963	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39644
+1490358569301	Marionette	INFO	Listening on port 39644
+1490358569749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490358662930	geckodriver	INFO	Listening on 127.0.0.1:37772
+1490358663028	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LYXm49adTXkN
+1490358663029	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490358663046	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45135
+1490358664295	Marionette	INFO	Listening on port 45135
+1490358664562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490358727288	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1490358738821	geckodriver	INFO	Listening on 127.0.0.1:38228
+1490358738942	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Olt7hhczs9Lt
+1490358738953	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490358738957	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40907
+1490358739852	Marionette	INFO	Listening on port 40907
+1490358740052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490358810762	geckodriver	INFO	Listening on 127.0.0.1:37627
+1490358810810	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.g8aBaeVtIZDw
+1490358810810	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490358810812	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38902
+1490358813330	Marionette	INFO	Listening on port 38902
+1490358813530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.js?ver=20131126154524, line 5514: unreachable code after return statement
+1490358925379	geckodriver	INFO	Listening on 127.0.0.1:50089
+1490358925505	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EAS7U9AAr4OJ
+1490358925505	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490358925530	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41541
+1490358926627	Marionette	INFO	Listening on port 41541
+1490358927061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490359429203	geckodriver	INFO	Listening on 127.0.0.1:55147
+1490359429326	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.u0Y4MUhpoOQB
+1490359429326	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490359429331	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38502
+1490359430528	Marionette	INFO	Listening on port 38502
+1490359430784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.js?ver=20131126154524, line 5514: unreachable code after return statement
+1490359562817	geckodriver	INFO	Listening on 127.0.0.1:58160
+1490359562916	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.atswSahV7yMe
+1490359562916	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490359562919	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40384
+1490359564102	Marionette	INFO	Listening on port 40384
+1490359564308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490360759705	geckodriver	INFO	Listening on 127.0.0.1:37877
+1490360759822	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EdjIFQ5ObBQ4
+1490360759822	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490360759837	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37720
+1490360761861	Marionette	INFO	Listening on port 37720
+1490360762089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490360821685	geckodriver	INFO	Listening on 127.0.0.1:52617
+1490360821826	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MfiZg6nV0qHr
+1490360821826	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490360821854	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42274
+1490360822701	Marionette	INFO	Listening on port 42274
+1490360822917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/en_US/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490360899973	geckodriver	INFO	Listening on 127.0.0.1:60271
+1490360900038	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5mGsQkCC21Tv
+1490360900038	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490360900041	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33340
+1490360900940	Marionette	INFO	Listening on port 33340
+1490360901157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+1490360997892	geckodriver	INFO	Listening on 127.0.0.1:45582
+1490360997933	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jSRQaSkkW0mE
+1490360997934	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490360997936	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37829
+1490360999349	Marionette	INFO	Listening on port 37829
+1490360999632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+1490361049816	geckodriver	INFO	Listening on 127.0.0.1:36585
+1490361049946	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nGpyN7WF9VM5
+1490361049946	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490361049952	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46053
+1490361052091	Marionette	INFO	Listening on port 46053
+1490361052338	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1121:3
+dispatch/</req<@chrome://marionette/content/listener.js:188:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:186:15
+
+*************************
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 8: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 16: unreachable code after return statement
+JavaScript warning: https://js.imgsmail.ru/mail/e/utf/ts/1489685015/ru_RU/images/js/ru/build/Compose.js, line 18: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/webim/agent/release/478/webagent.ru.js?ver=20131126154524, line 5514: unreachable code after return statement
+1490361282455	geckodriver	INFO	Listening on 127.0.0.1:58188
+1490361282575	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wi0ocd54uloF
+1490361282576	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490361282590	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41964
+1490361283396	Marionette	INFO	Listening on port 41964
+1490361283596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490361295172	Marionette	INFO	New connections will no longer be accepted
+1490361400672	geckodriver	INFO	Listening on 127.0.0.1:45149
+1490361400745	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WnJxP4AL9C03
+1490361400745	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490361400747	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41217
+1490361401569	Marionette	INFO	Listening on port 41217
+1490361401773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490361460186	geckodriver	INFO	Listening on 127.0.0.1:49200
+1490361460245	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nx6Z5IZREKiv
+1490361460245	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490361460262	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35929
+1490361461106	Marionette	INFO	Listening on port 35929
+1490361461302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490361502118	geckodriver	INFO	Listening on 127.0.0.1:47340
+1490361502220	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.H4sLpPssyf5l
+1490361502220	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490361502222	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35641
+1490361503122	Marionette	INFO	Listening on port 35641
+1490361503319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490361625177	geckodriver	INFO	Listening on 127.0.0.1:42461
+1490361625275	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SmdYDw92trDm
+1490361625276	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490361625293	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38725
+1490361626211	Marionette	INFO	Listening on port 38725
+1490361626435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490362000620	geckodriver	INFO	Listening on 127.0.0.1:38185
+1490362000752	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Y8BqWMQgY7tf
+1490362000752	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490362000757	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34624
+1490362001714	Marionette	INFO	Listening on port 34624
+1490362001965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490362277427	geckodriver	INFO	Listening on 127.0.0.1:37394
+1490362277534	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DukCkKFotVRp
+1490362277534	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490362277536	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42989
+1490362278734	Marionette	INFO	Listening on port 42989
+1490362278939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490362557295	geckodriver	INFO	Listening on 127.0.0.1:47752
+1490362557407	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ZA1pBh2RBhJB
+1490362557408	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490362557425	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34589
+1490362558402	Marionette	INFO	Listening on port 34589
+1490362558673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490362708973	geckodriver	INFO	Listening on 127.0.0.1:52843
+1490362709064	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oL3Qf8nuDQee
+1490362709064	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490362709066	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34069
+1490362711184	Marionette	INFO	Listening on port 34069
+1490362711437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490363745885	geckodriver	INFO	Listening on 127.0.0.1:33760
+1490363745977	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9CUAnuRsL309
+1490363745977	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490363745980	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45509
+1490363747446	Marionette	INFO	Listening on port 45509
+1490363747708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490363881502	geckodriver	INFO	Listening on 127.0.0.1:46173
+1490363881626	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.So6zr4wkB9S8
+1490363881626	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490363881638	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38581
+1490363883712	Marionette	INFO	Listening on port 38581
+1490363883975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490363916135	geckodriver	INFO	Listening on 127.0.0.1:45714
+1490363916269	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2663PADQWzIy
+1490363916270	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490363916279	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35952
+1490363917203	Marionette	INFO	Listening on port 35952
+1490363917463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490363993827	geckodriver	INFO	Listening on 127.0.0.1:60790
+1490363993933	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wGW2IS8n2ONi
+1490363993933	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490363993951	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44038
+1490363994807	Marionette	INFO	Listening on port 44038
+1490363995043	Marionette	WARN	TLS certificate errors will be ignored for this session
